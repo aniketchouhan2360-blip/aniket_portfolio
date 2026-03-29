@@ -33,7 +33,7 @@ body {
   cursor: none;
 }
 a { text-decoration:none; color:inherit; }
-img { max-width:100%; display:block;justify content: center; }
+img { max-width:100%; display:block;justify content: center; opacity:1 }
 
 /* ── SCROLLBAR ── */
 ::-webkit-scrollbar { width:3px; }
