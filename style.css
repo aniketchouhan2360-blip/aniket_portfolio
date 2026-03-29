@@ -445,6 +445,7 @@ img { max-width:100%; display:block;justify content: center;}
   font-weight: 700;
   color: var(--gold);
   opacity: 1;
+  filter : brightness(100%)
   line-height: 1;
   letter-spacing: -0.04em;
 }
